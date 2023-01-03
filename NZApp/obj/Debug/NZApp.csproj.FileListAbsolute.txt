@@ -1,0 +1,17 @@
+C:\Users\New User\source\repos\NZApp\bin\Debug\NZApp.exe.config
+C:\Users\New User\source\repos\NZApp\bin\Debug\NZApp.exe
+C:\Users\New User\source\repos\NZApp\bin\Debug\NZApp.pdb
+C:\Users\New User\source\repos\NZApp\obj\Debug\NZApp.csprojAssemblyReference.cache
+C:\Users\New User\source\repos\NZApp\obj\Debug\MainWindow.g.cs
+C:\Users\New User\source\repos\NZApp\obj\Debug\App.g.cs
+C:\Users\New User\source\repos\NZApp\obj\Debug\NZApp_MarkupCompile.cache
+C:\Users\New User\source\repos\NZApp\obj\Debug\NZApp_MarkupCompile.lref
+C:\Users\New User\source\repos\NZApp\obj\Debug\MainWindow.baml
+C:\Users\New User\source\repos\NZApp\obj\Debug\NZApp.g.resources
+C:\Users\New User\source\repos\NZApp\obj\Debug\NZApp.Properties.Resources.resources
+C:\Users\New User\source\repos\NZApp\obj\Debug\NZApp.csproj.GenerateResource.cache
+C:\Users\New User\source\repos\NZApp\obj\Debug\NZApp.csproj.CoreCompileInputs.cache
+C:\Users\New User\source\repos\NZApp\obj\Debug\NZApp.exe
+C:\Users\New User\source\repos\NZApp\obj\Debug\NZApp.pdb
+C:\Users\New User\source\repos\NZApp\obj\Debug\Window1.g.cs
+C:\Users\New User\source\repos\NZApp\obj\Debug\Window1.baml
